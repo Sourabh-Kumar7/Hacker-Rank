@@ -1,0 +1,3 @@
+-- Problem Statement : 
+
+SELECT NAME FROM EMPLOYEE ORDER BY NAME;
